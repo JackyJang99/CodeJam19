@@ -16,8 +16,8 @@ The following are screenshots for the app in this repo:
 
 ![animated](screenshots/demo.gif)
 
-![screenshot](p1-overview.png)
+![screenshot](screenshots/p1-overview.png)
 
-![screenshot](p2-dashboard.png)
+![screenshot](screenshots/p2-dashboard.png)
 
-![screenshot](p3-eval.png)
+![screenshot](screenshots/p3-eval.png)
