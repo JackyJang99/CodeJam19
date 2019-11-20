@@ -22,4 +22,5 @@ The following are screenshots for the app in this repo:
 
 ## The Model
 The model used by our website is Random Forest, implented using SKlearn. We tried KNN, Logistic Regression, and also Deep Neural Networks using Keras([link](fasterboi.ipynb)). For the Deep Neural Network, we tried a 7 layer neural network using ReLU, sigmoid, Leaky ReLU and linear activation functions. We also have batch normalization between every layer.
+
 We realized that accuracy is not a suitable metric for our data set: a more fitting metric would be the f1 score which calculates the false postive _rate_ and false negative _rate_. However, our highest f1 score was 0.09.
